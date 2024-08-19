@@ -1,8 +1,9 @@
-# Battery-Colorful-Indicator
+![Screenshot (499)](https://github.com/user-attachments/assets/9526c3c9-0dd5-4f85-abd8-2b2cba124b34)# Battery-Colorful-Indicator
 This is a battery indicator app which is used to know battery percentage of the system.
 - HTML
 - CSS
 - JS
-  
-![Alt text](![Screenshot (499)](https://github.com/user-attachments/assets/9ff08538-0903-4245-b7d8-a1a70f9e1ead)
-)
+
+1. Output 
+![Screenshot 2024-08-19 184609](https://github.com/user-attachments/assets/d596042e-a4a6-4ad8-97f7-0e154848c3bc)
+
